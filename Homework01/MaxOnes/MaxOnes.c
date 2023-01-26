@@ -110,30 +110,6 @@ void SGA_Population_Init(population_t *population, RNG *rng)
         SGA_Genome_Init(&((*population).member[m_count]), rng);
 }	
 
-//
-double SGA_Genome_Decode(genome_t *genome, int start, int end, double min, double max)
-{ 
-    double return_value;
-    double max_decimal_value;
-    double decimal_value;
-    int    bit_count;	
-    int    bit_pos;
-
-    decimal_value = 0.0;
-    max_decimal_value = 0.0;
-    bit_count = 0;
-    for (bit_pos=end; bit_pos>=start; bit_pos--)
-    { 
-        decimal_value     += (double)((*genome).bit[bit_pos])*pow(2.0, (double)bit_count);
-        max_decimal_value += pow(2.0,(double)bit_count);
-        bit_count++;
-    }
-
-    return_value = min + (max-min)*(decimal_value/max_decimal_value);	
-    return return_value;
-
-}
-
 //Loops through each bit of a genome, then runs a random number generator
 //if the random number is lower than the mutation rate, flip the bit
 void SGA_Genome_Mutate(genome_t *genome, double mutation_rate, RNG *rng)

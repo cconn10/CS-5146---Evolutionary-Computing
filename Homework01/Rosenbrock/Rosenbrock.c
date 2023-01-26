@@ -16,7 +16,7 @@
 //I made these global constants so they could be easily changed 
 const int GENERATION_LIMIT = 10000;
 const int POP_SIZE = 100;
-const int BIT_STRING_LENGTH = 32;
+const int BIT_STRING_LENGTH = 12;
 const double MUATION_RATE = 0.01;
 const double CROSSOVER_RATE = 0.5;
 
@@ -109,30 +109,6 @@ void SGA_Population_Init(population_t *population, RNG *rng)
     for (m_count=0; m_count < (*population).member_count; m_count++)
         SGA_Genome_Init(&((*population).member[m_count]), rng);
 }	
-
-//
-double SGA_Genome_Decode(genome_t *genome, int start, int end, double min, double max)
-{ 
-    double return_value;
-    double max_decimal_value;
-    double decimal_value;
-    int    bit_count;	
-    int    bit_pos;
-
-    decimal_value = 0.0;
-    max_decimal_value = 0.0;
-    bit_count = 0;
-    for (bit_pos=end; bit_pos>=start; bit_pos--)
-    { 
-        decimal_value     += (double)((*genome).bit[bit_pos])*pow(2.0, (double)bit_count);
-        max_decimal_value += pow(2.0,(double)bit_count);
-        bit_count++;
-    }
-
-    return_value = min + (max-min)*(decimal_value/max_decimal_value);	
-    return return_value;
-
-}
 
 //Loops through each bit of a genome, then runs a random number generator
 //if the random number is lower than the mutation rate, flip the bit
@@ -249,15 +225,36 @@ void SGA_Population_Make_New_Generation(population_t *old_population,
 
 double SGA_Rosenbrock_Fitness(genome_t *genome)
 {
+    int a = 1;
+    int b = 100;
+    int x = 0;
+    int y = 0;
+    int y_offset = BIT_STRING_LENGTH / 2;
     int bit_position;
+
     double one_count = 0.0;
+    long double rosenbrock;
 
-    // Go through each bit of the genotype and increment every time a one is seen
-    for (bit_position = 0; bit_position < (*genome).genome_len; bit_position++)
-        one_count += (double)(*genome).bit[bit_position];
+    // get integer values of x and y to plug into the rosenbrock function
+    for (bit_position = 0; bit_position < y_offset; bit_position++){
+        if((int)(*genome).bit[bit_position] == 1)
+            x += (2^bit_position);
+    }
+    for (bit_position = y_offset; bit_position < BIT_STRING_LENGTH; bit_position++){
+        if((int)(*genome).bit[bit_position] == 1)
+            y += (2^(bit_position - (y_offset)));
+    }
 
-    // Fitness = ratio of ones : total length
-    return one_count / (double)(*genome).genome_len;
+    rosenbrock = ((a-x)^2) + (b*(y-x^2)^2);
+
+    /*
+        Fitness = closeness of rosenbrock(x,y) to zero
+        I chose to add 1 to the rosenbrock result because the function minimizes to zero
+        and I wanted to avoid divide by zero errors. I divide the result by 100 because I 
+        was originally dividing by 1 and I would always get a result of 1.#INF.
+        Chosing a larger number caused that result to happen less often
+    */
+    return 100 / (rosenbrock + 1);
 }
 
 void SGA_Population_Compute_Fitness(population_t *population)
@@ -271,7 +268,7 @@ void SGA_Population_Compute_Fitness(population_t *population)
     for (m_count = 0; m_count < (*population).member_count; m_count++)
     {
         //calculate the fitness of each member
-        ((*population).member[m_count]).fitness = SGA_Max_Ones_Fitness(&((*population).member[m_count]));
+        ((*population).member[m_count]).fitness = SGA_Rosenbrock_Fitness(&((*population).member[m_count]));
 
         //add the sum to the total sum of all members
         fitness_sum += ((*population).member[m_count]).fitness;

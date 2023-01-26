@@ -1,0 +1,13 @@
+Instructions to run
+
+1. Install MinGW if you don't already have it
+
+2. Open a console
+
+3. Navigate to the location of the folder for the file you want to run
+    a. For MaxOnes, navigate to the MaxOnes folder
+    b. For Rosenbrock, navigate to the Rosenbrock folder
+
+4. Run `gcc {File Name}` in your console (MaxOnes.c or Rosenbrock.c)
+
+5. Either run a.exe in your console or use a pipe `a.exe > output.txt` to create a text file of the output
