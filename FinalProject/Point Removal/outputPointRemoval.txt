@@ -1,0 +1,200 @@
+DND 5e Character Generator | ES | Mu: 20 | Lambda: 100 |  Generation 0 | Average Fitness: 3.7362500000000005
+	Champion: bard, CHA 11, WIS 10, INT 11, CON 9, DEX 9, STR 13 | FITNESS 6.525
+Generation 100 | Average Fitness: 8.25
+	Champion: sorcerer, CHA 12, WIS 11, INT 10, CON 9, DEX 11, STR 10 - FITNESS 8.25
+Generation 200 | Average Fitness: 8.126249999999999
+	Champion: sorcerer, CHA 12, WIS 11, INT 11, CON 8, DEX 11, STR 10 - FITNESS 8.25
+Generation 300 | Average Fitness: 8.497499999999999
+	Champion: sorcerer, CHA 14, WIS 9, INT 10, CON 8, DEX 11, STR 11 - FITNESS 9.075000000000001
+Generation 400 | Average Fitness: 8.389999999999999
+	Champion: sorcerer, CHA 14, WIS 9, INT 10, CON 8, DEX 11, STR 11 - FITNESS 9.075000000000001
+Generation 500 | Average Fitness: 9.611250000000002
+	Champion: sorcerer, CHA 16, WIS 8, INT 11, CON 7, DEX 13, STR 8 - FITNESS 9.9
+Generation 600 | Average Fitness: 10.353750000000002
+	Champion: sorcerer, CHA 18, WIS 7, INT 7, CON 7, DEX 15, STR 9 - FITNESS 10.725
+Generation 700 | Average Fitness: 9.889999999999997
+	Champion: sorcerer, CHA 18, WIS 8, INT 6, CON 6, DEX 17, STR 8 - FITNESS 10.725
+Generation 800 | Average Fitness: 9.655000000000005
+	Champion: sorcerer, CHA 17, WIS 8, INT 6, CON 7, DEX 17, STR 8 - FITNESS 9.9
+Generation 900 | Average Fitness: 10.724999999999996
+	Champion: sorcerer, CHA 18, WIS 9, INT 6, CON 6, DEX 16, STR 8 - FITNESS 10.725
+Generation 1000 | Average Fitness: 10.064999999999998
+	Champion: sorcerer, CHA 18, WIS 9, INT 8, CON 6, DEX 15, STR 7 - FITNESS 10.725
+Generation 1100 | Average Fitness: 10.037499999999998
+	Champion: sorcerer, CHA 18, WIS 10, INT 6, CON 8, DEX 15, STR 6 - FITNESS 10.725
+Generation 1200 | Average Fitness: 10.724999999999996
+	Champion: sorcerer, CHA 18, WIS 7, INT 8, CON 7, DEX 16, STR 7 - FITNESS 10.725
+Generation 1300 | Average Fitness: 10.601249999999997
+	Champion: sorcerer, CHA 18, WIS 6, INT 8, CON 9, DEX 16, STR 6 - FITNESS 10.725
+Generation 1400 | Average Fitness: 10.642499999999997
+	Champion: sorcerer, CHA 18, WIS 7, INT 9, CON 6, DEX 15, STR 8 - FITNESS 10.725
+Generation 1500 | Average Fitness: 10.518749999999997
+	Champion: sorcerer, CHA 18, WIS 6, INT 8, CON 9, DEX 16, STR 6 - FITNESS 10.725
+Generation 1600 | Average Fitness: 9.735000000000003
+	Champion: sorcerer, CHA 16, WIS 8, INT 9, CON 7, DEX 16, STR 7 - FITNESS 9.9
+Generation 1700 | Average Fitness: 9.583750000000004
+	Champion: sorcerer, CHA 17, WIS 10, INT 9, CON 7, DEX 14, STR 6 - FITNESS 9.9
+Generation 1800 | Average Fitness: 9.777500000000003
+	Champion: sorcerer, CHA 16, WIS 12, INT 8, CON 8, DEX 12, STR 7 - FITNESS 9.9
+Generation 1900 | Average Fitness: 10.328749999999996
+	Champion: sorcerer, CHA 18, WIS 11, INT 7, CON 9, DEX 12, STR 6 - FITNESS 10.725
+Generation 2000 | Average Fitness: 10.724999999999996
+	Champion: sorcerer, CHA 18, WIS 11, INT 6, CON 10, DEX 11, STR 7 - FITNESS 10.725
+Generation 2100 | Average Fitness: 10.188750000000002
+	Champion: sorcerer, CHA 18, WIS 11, INT 6, CON 11, DEX 10, STR 7 - FITNESS 10.725
+Generation 2200 | Average Fitness: 10.559999999999997
+	Champion: sorcerer, CHA 18, WIS 9, INT 7, CON 12, DEX 9, STR 8 - FITNESS 10.725
+Generation 2300 | Average Fitness: 10.642499999999997
+	Champion: sorcerer, CHA 18, WIS 8, INT 7, CON 13, DEX 8, STR 9 - FITNESS 10.725
+Generation 2400 | Average Fitness: 10.601249999999997
+	Champion: sorcerer, CHA 18, WIS 6, INT 6, CON 13, DEX 10, STR 10 - FITNESS 10.725
+Generation 2500 | Average Fitness: 10.642499999999997
+	Champion: sorcerer, CHA 18, WIS 6, INT 6, CON 12, DEX 10, STR 11 - FITNESS 10.725
+Generation 2600 | Average Fitness: 10.436249999999998
+	Champion: sorcerer, CHA 18, WIS 7, INT 6, CON 10, DEX 10, STR 12 - FITNESS 10.725
+Generation 2700 | Average Fitness: 10.477499999999997
+	Champion: sorcerer, CHA 18, WIS 6, INT 6, CON 10, DEX 9, STR 14 - FITNESS 10.725
+Generation 2800 | Average Fitness: 9.900000000000002
+	Champion: sorcerer, CHA 17, WIS 7, INT 8, CON 10, DEX 10, STR 11 - FITNESS 9.9
+Generation 2900 | Average Fitness: 10.518749999999999
+	Champion: sorcerer, CHA 18, WIS 7, INT 7, CON 7, DEX 9, STR 15 - FITNESS 10.725
+Generation 3000 | Average Fitness: 10.724999999999996
+	Champion: sorcerer, CHA 18, WIS 8, INT 7, CON 7, DEX 11, STR 12 - FITNESS 10.725
+Generation 3100 | Average Fitness: 9.730000000000002
+	Champion: sorcerer, CHA 18, WIS 7, INT 9, CON 7, DEX 12, STR 10 - FITNESS 10.725
+Generation 3200 | Average Fitness: 10.394999999999998
+	Champion: sorcerer, CHA 18, WIS 6, INT 8, CON 6, DEX 13, STR 12 - FITNESS 10.725
+Generation 3300 | Average Fitness: 10.559999999999999
+	Champion: sorcerer, CHA 18, WIS 6, INT 8, CON 6, DEX 12, STR 13 - FITNESS 10.725
+Generation 3400 | Average Fitness: 10.293749999999998
+	Champion: sorcerer, CHA 18, WIS 6, INT 7, CON 8, DEX 11, STR 13 - FITNESS 10.725
+Generation 3500 | Average Fitness: 9.034999999999998
+	Champion: sorcerer, CHA 16, WIS 7, INT 6, CON 9, DEX 10, STR 15 - FITNESS 9.9
+Generation 3600 | Average Fitness: 9.540000000000003
+	Champion: sorcerer, CHA 16, WIS 6, INT 6, CON 9, DEX 11, STR 15 - FITNESS 9.9
+Generation 3700 | Average Fitness: 9.735000000000001
+	Champion: sorcerer, CHA 17, WIS 8, INT 6, CON 9, DEX 10, STR 13 - FITNESS 9.9
+Generation 3800 | Average Fitness: 10.559999999999999
+	Champion: sorcerer, CHA 18, WIS 6, INT 6, CON 12, DEX 9, STR 12 - FITNESS 10.725
+Generation 3900 | Average Fitness: 10.724999999999996
+	Champion: sorcerer, CHA 18, WIS 8, INT 6, CON 11, DEX 7, STR 13 - FITNESS 10.725
+Generation 4000 | Average Fitness: 10.4775
+	Champion: sorcerer, CHA 18, WIS 8, INT 6, CON 11, DEX 6, STR 14 - FITNESS 10.725
+Generation 4100 | Average Fitness: 10.518749999999997
+	Champion: sorcerer, CHA 18, WIS 9, INT 6, CON 11, DEX 6, STR 13 - FITNESS 10.725
+Generation 4200 | Average Fitness: 10.683749999999996
+	Champion: sorcerer, CHA 18, WIS 9, INT 7, CON 10, DEX 6, STR 13 - FITNESS 10.725
+Generation 4300 | Average Fitness: 10.281249999999996
+	Champion: sorcerer, CHA 18, WIS 7, INT 10, CON 10, DEX 6, STR 12 - FITNESS 10.725
+Generation 4400 | Average Fitness: 10.724999999999996
+	Champion: sorcerer, CHA 18, WIS 7, INT 11, CON 9, DEX 7, STR 11 - FITNESS 10.725
+Generation 4500 | Average Fitness: 10.281249999999996
+	Champion: sorcerer, CHA 18, WIS 7, INT 11, CON 9, DEX 6, STR 12 - FITNESS 10.725
+Generation 4600 | Average Fitness: 10.323749999999997
+	Champion: sorcerer, CHA 18, WIS 6, INT 10, CON 10, DEX 7, STR 12 - FITNESS 10.725
+Generation 4700 | Average Fitness: 10.169999999999998
+	Champion: sorcerer, CHA 18, WIS 7, INT 9, CON 9, DEX 8, STR 12 - FITNESS 10.725
+Generation 4800 | Average Fitness: 10.182499999999997
+	Champion: sorcerer, CHA 18, WIS 7, INT 8, CON 10, DEX 7, STR 13 - FITNESS 10.725
+Generation 4900 | Average Fitness: 10.724999999999996
+	Champion: sorcerer, CHA 18, WIS 6, INT 9, CON 10, DEX 7, STR 13 - FITNESS 10.725
+Generation 5000 | Average Fitness: 10.1275
+	Champion: sorcerer, CHA 18, WIS 7, INT 9, CON 12, DEX 6, STR 11 - FITNESS 10.725
+Generation 5100 | Average Fitness: 10.724999999999996
+	Champion: sorcerer, CHA 18, WIS 6, INT 10, CON 11, DEX 6, STR 12 - FITNESS 10.725
+Generation 5200 | Average Fitness: 9.09375
+	Champion: sorcerer, CHA 16, WIS 6, INT 10, CON 11, DEX 6, STR 14 - FITNESS 9.9
+Generation 5300 | Average Fitness: 9.900000000000002
+	Champion: sorcerer, CHA 16, WIS 7, INT 10, CON 12, DEX 6, STR 12 - FITNESS 9.9
+Generation 5400 | Average Fitness: 9.435000000000002
+	Champion: sorcerer, CHA 17, WIS 8, INT 8, CON 11, DEX 7, STR 12 - FITNESS 9.9
+Generation 5500 | Average Fitness: 9.997499999999997
+	Champion: sorcerer, CHA 18, WIS 9, INT 11, CON 10, DEX 6, STR 9 - FITNESS 10.725
+Generation 5600 | Average Fitness: 10.724999999999996
+	Champion: sorcerer, CHA 18, WIS 7, INT 11, CON 10, DEX 8, STR 9 - FITNESS 10.725
+Generation 5700 | Average Fitness: 10.724999999999996
+	Champion: sorcerer, CHA 18, WIS 7, INT 10, CON 10, DEX 8, STR 10 - FITNESS 10.725
+Generation 5800 | Average Fitness: 10.683749999999996
+	Champion: sorcerer, CHA 18, WIS 8, INT 10, CON 8, DEX 9, STR 10 - FITNESS 10.725
+Generation 5900 | Average Fitness: 10.724999999999996
+	Champion: sorcerer, CHA 18, WIS 8, INT 7, CON 9, DEX 9, STR 12 - FITNESS 10.725
+Generation 6000 | Average Fitness: 9.900000000000002
+	Champion: sorcerer, CHA 16, WIS 8, INT 7, CON 10, DEX 10, STR 12 - FITNESS 9.9
+Generation 6100 | Average Fitness: 10.518749999999997
+	Champion: sorcerer, CHA 18, WIS 7, INT 7, CON 10, DEX 10, STR 11 - FITNESS 10.725
+Generation 6200 | Average Fitness: 10.396249999999998
+	Champion: sorcerer, CHA 18, WIS 6, INT 11, CON 10, DEX 10, STR 8 - FITNESS 10.725
+Generation 6300 | Average Fitness: 10.724999999999996
+	Champion: sorcerer, CHA 18, WIS 7, INT 11, CON 10, DEX 9, STR 8 - FITNESS 10.725
+Generation 6400 | Average Fitness: 9.446250000000003
+	Champion: sorcerer, CHA 16, WIS 6, INT 11, CON 10, DEX 9, STR 11 - FITNESS 9.9
+Generation 6500 | Average Fitness: 9.735000000000003
+	Champion: sorcerer, CHA 16, WIS 6, INT 12, CON 9, DEX 10, STR 10 - FITNESS 9.9
+Generation 6600 | Average Fitness: 9.900000000000002
+	Champion: sorcerer, CHA 18, WIS 6, INT 8, CON 11, DEX 12, STR 8 - FITNESS 10.725
+Generation 6700 | Average Fitness: 9.441250000000002
+	Champion: sorcerer, CHA 16, WIS 7, INT 10, CON 9, DEX 13, STR 8 - FITNESS 9.9
+Generation 6800 | Average Fitness: 9.900000000000002
+	Champion: sorcerer, CHA 16, WIS 7, INT 10, CON 10, DEX 11, STR 9 - FITNESS 9.9
+Generation 6900 | Average Fitness: 9.622500000000002
+	Champion: sorcerer, CHA 18, WIS 8, INT 10, CON 10, DEX 9, STR 8 - FITNESS 10.725
+Generation 7000 | Average Fitness: 9.776250000000003
+	Champion: sorcerer, CHA 16, WIS 9, INT 9, CON 10, DEX 13, STR 6 - FITNESS 9.9
+Generation 7100 | Average Fitness: 9.4625
+	Champion: sorcerer, CHA 18, WIS 10, INT 6, CON 11, DEX 12, STR 6 - FITNESS 10.725
+Generation 7200 | Average Fitness: 9.157499999999999
+	Champion: sorcerer, CHA 16, WIS 9, INT 7, CON 10, DEX 14, STR 7 - FITNESS 9.9
+Generation 7300 | Average Fitness: 8.761249999999999
+	Champion: sorcerer, CHA 15, WIS 10, INT 8, CON 10, DEX 13, STR 7 - FITNESS 9.075000000000001
+Generation 7400 | Average Fitness: 9.900000000000002
+	Champion: sorcerer, CHA 16, WIS 10, INT 7, CON 10, DEX 13, STR 7 - FITNESS 9.9
+Generation 7500 | Average Fitness: 9.900000000000002
+	Champion: sorcerer, CHA 16, WIS 11, INT 7, CON 10, DEX 13, STR 6 - FITNESS 9.9
+Generation 7600 | Average Fitness: 10.014999999999997
+	Champion: sorcerer, CHA 18, WIS 8, INT 6, CON 11, DEX 13, STR 7 - FITNESS 10.725
+Generation 7700 | Average Fitness: 9.838750000000001
+	Champion: sorcerer, CHA 18, WIS 11, INT 6, CON 8, DEX 12, STR 8 - FITNESS 10.725
+Generation 7800 | Average Fitness: 10.416249999999998
+	Champion: sorcerer, CHA 18, WIS 12, INT 6, CON 8, DEX 9, STR 10 - FITNESS 10.725
+Generation 7900 | Average Fitness: 10.354999999999999
+	Champion: sorcerer, CHA 18, WIS 12, INT 7, CON 8, DEX 8, STR 10 - FITNESS 10.725
+Generation 8000 | Average Fitness: 9.7075
+	Champion: sorcerer, CHA 18, WIS 12, INT 7, CON 9, DEX 8, STR 9 - FITNESS 10.725
+Generation 8100 | Average Fitness: 10.194999999999997
+	Champion: sorcerer, CHA 18, WIS 13, INT 8, CON 9, DEX 7, STR 8 - FITNESS 10.725
+Generation 8200 | Average Fitness: 10.581249999999995
+	Champion: sorcerer, CHA 18, WIS 9, INT 8, CON 11, DEX 6, STR 11 - FITNESS 10.725
+Generation 8300 | Average Fitness: 9.643749999999995
+	Champion: sorcerer, CHA 18, WIS 8, INT 8, CON 11, DEX 6, STR 12 - FITNESS 10.725
+Generation 8400 | Average Fitness: 10.539999999999996
+	Champion: sorcerer, CHA 18, WIS 9, INT 8, CON 10, DEX 6, STR 12 - FITNESS 10.725
+Generation 8500 | Average Fitness: 10.477499999999997
+	Champion: sorcerer, CHA 18, WIS 9, INT 9, CON 9, DEX 7, STR 11 - FITNESS 10.725
+Generation 8600 | Average Fitness: 10.601249999999997
+	Champion: sorcerer, CHA 18, WIS 9, INT 8, CON 10, DEX 7, STR 11 - FITNESS 10.725
+Generation 8700 | Average Fitness: 9.982500000000003
+	Champion: sorcerer, CHA 18, WIS 9, INT 8, CON 11, DEX 7, STR 10 - FITNESS 10.725
+Generation 8800 | Average Fitness: 9.630000000000003
+	Champion: sorcerer, CHA 17, WIS 6, INT 10, CON 13, DEX 7, STR 10 - FITNESS 9.9
+Generation 8900 | Average Fitness: 8.675
+	Champion: sorcerer, CHA 16, WIS 7, INT 12, CON 11, DEX 7, STR 10 - FITNESS 9.9
+Generation 9000 | Average Fitness: 9.776250000000003
+	Champion: sorcerer, CHA 17, WIS 7, INT 10, CON 11, DEX 9, STR 9 - FITNESS 9.9
+Generation 9100 | Average Fitness: 9.828750000000001
+	Champion: sorcerer, CHA 18, WIS 8, INT 8, CON 9, DEX 10, STR 10 - FITNESS 10.725
+Generation 9200 | Average Fitness: 10.683749999999996
+	Champion: sorcerer, CHA 18, WIS 9, INT 10, CON 9, DEX 7, STR 10 - FITNESS 10.725
+Generation 9300 | Average Fitness: 10.724999999999996
+	Champion: sorcerer, CHA 18, WIS 10, INT 13, CON 9, DEX 6, STR 7 - FITNESS 10.725
+Generation 9400 | Average Fitness: 10.395
+	Champion: sorcerer, CHA 18, WIS 10, INT 12, CON 9, DEX 6, STR 8 - FITNESS 10.725
+Generation 9500 | Average Fitness: 10.206249999999997
+	Champion: sorcerer, CHA 18, WIS 9, INT 13, CON 6, DEX 8, STR 9 - FITNESS 10.725
+Generation 9600 | Average Fitness: 10.724999999999996
+	Champion: sorcerer, CHA 18, WIS 8, INT 10, CON 7, DEX 10, STR 10 - FITNESS 10.725
+Generation 9700 | Average Fitness: 10.724999999999996
+	Champion: sorcerer, CHA 18, WIS 7, INT 13, CON 7, DEX 10, STR 8 - FITNESS 10.725
+Generation 9800 | Average Fitness: 9.147499999999997
+	Champion: sorcerer, CHA 18, WIS 8, INT 14, CON 7, DEX 10, STR 6 - FITNESS 10.725
+Generation 9900 | Average Fitness: 10.511249999999999
+	Champion: sorcerer, CHA 18, WIS 8, INT 18, CON 7, DEX 6, STR 6 - FITNESS 10.725
